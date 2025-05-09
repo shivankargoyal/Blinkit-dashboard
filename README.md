@@ -94,6 +94,9 @@ Add user segmentation using clustering
 
 Use DAX to generate forecasted metrics
 
+other- 
+For all the files/images used in making the dashboard can be accessed from this link-
+https://drive.google.com/drive/folders/1Ca3oA11j4mos7n3Efm_q0yxdnlAMMiRJ?usp=sharing
 
 🙋‍♂️ Author
 Shivankar Goyal
